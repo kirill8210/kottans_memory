@@ -1,4 +1,4 @@
-const arr = [
+const arrayNumbers = [
     {
         id: 1,
         value: '1'
@@ -25,4 +25,4 @@ const arr = [
     }
 ]
 
-export default arr;
+export default arrayNumbers;
