@@ -56,7 +56,7 @@ const flipCard = ({target}) => {
             twoCard.style.visibility = 'hidden';
             setTimeout(() => {
                 awaitFlips = 0;
-            }, 800)
+            }, 900)
             countFlipCards += 2;
         } else{
             openedCardId = 0
